@@ -38,7 +38,7 @@ int GetZones(int rainLevel) {
 
 int main() {
     int maxHeight = 0;
-    int maxZone = 0;
+    int maxZone = -1;
     int answer = 0;
     int zones;
 
